@@ -58,7 +58,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronJayBaylon&bg_color=90,000000,b41c1c&border_color=FF0000&title_color=EBAD30&text_color=e0e0e0&&border_radius=10&layout=compact)](https://github.com/ByronJayBaylon/)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="48" height="48" /> My Recent Project's Repositories
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium%20Skin%20Tone.png" alt="Clapping Hands Medium Skin Tone" width="48" height="48" /> My Recent Project's Repositories
 
 ### [ClickMe](https://byronjaybaylon.github.io/ClickMe/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByronJayBaylon&repo=ClickMe&bg_color=90,000000,b41c1c&title_color=416DE1&text_color=e0e0e0&border_radius=10&border_color=ff0000&show_owner=true)](https://github.com/ByronJayBaylon/ClickMe)
