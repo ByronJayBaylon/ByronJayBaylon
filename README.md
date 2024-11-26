@@ -1,11 +1,11 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Byron Jay Baylon
+Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="100" height="100" /> My name is Byron Jay Baylon
 ===================================================================================================================================
 
 Still learning different languages, and my goal is to try and master it as soon as possible.
 
 * 🧠  I'm learning JavaScript, Python, PHP, MySQL
 
-### Skills
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="48" height="48" /> Skills
 
 
 <p align="left">
@@ -21,14 +21,14 @@ Still learning different languages, and my goal is to try and master it as soon 
 </p>
 
 
-### Socials
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="48" height="48" /> Socials
 
 <p align="left">
 <a href="https://www.github.com/HimeeHimeee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.youtube.com/@miggyyyy4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-### Badges
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="48" height="48" /> Badges
 
 <b>My GitHub Stats</b>
 
@@ -38,7 +38,7 @@ Still learning different languages, and my goal is to try and master it as soon 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronJayBaylon&bg_color=90,000000,b41c1c&border_color=FF0000&title_color=f8f9fa&text_color=e0e0e0&&border_radius=10&layout=compact)](https://github.com/ByronJayBaylon/)
 
-## My Recent Project's Repositories
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="48" height="48" /> My Recent Project's Repositories
 
 ### [ClickMe](https://byronjaybaylon.github.io/ClickMe/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByronJayBaylon&repo=ClickMe&bg_color=90,000000,b41c1c&title_color=416DE1&text_color=e0e0e0&border_radius=10&border_color=ff0000&show_owner=true)](https://github.com/ByronJayBaylon/ClickMe)
