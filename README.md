@@ -1,8 +1,16 @@
-# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="100" height="100" /> My name is Byron Jay Baylon <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="100" height="100" />
-
 <img src="https://github.com/ByronJayBaylon/ByronJayBaylon/blob/630363a0f75183b0c0d10b5fbd4397e4c0bfc997/Welcome%20To%20Your%20Madness.gif" alt="Welcome To Your Madness" />
 
-### Still learning different languages, and my goal is to try and master it as soon as possible.
+<div align="center">
+  
+   Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="100" height="100" /> I'm Byron Jay Baylon <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="100" height="100" />
+   ====================
+  <h4>A Creative Front End Developer & Graphic Designer</h4>
+  
+</div>
+<br><br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="48" height="48" /> About Me
+#### Still learning different languages, and my goal is to try and master it as soon as possible.
 
 * 🧠  I'm learning JavaScript, Python, PHP, MySQL
 
