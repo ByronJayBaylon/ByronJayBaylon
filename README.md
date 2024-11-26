@@ -1,5 +1,4 @@
-Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="100" height="100" /> My name is Byron Jay Baylon
-===================================================================================================================================
+# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="100" height="100" /> My name is Byron Jay Baylon
 
 Still learning different languages, and my goal is to try and master it as soon as possible.
 
