@@ -40,4 +40,8 @@ Still learning different languages, and my goal is to try and master it as soon 
 
 ## My Recent Project's Repositories
 
+### [ClickMe](https://byronjaybaylon.github.io/ClickMe/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByronJayBaylon&repo=ClickMe&bg_color=90,000000,b41c1c&title_color=416DE1&text_color=e0e0e0&border_radius=10&border_color=ff0000)](https://github.com/ByronJayBaylon/ClickMe)
+
+### Merlie Rice Trading
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByronJayBaylon&repo=ClickMe&bg_color=90,000000,b41c1c&title_color=416DE1&text_color=e0e0e0&border_radius=10&border_color=ff0000)](https://github.com/ByronJayBaylon/ClickMe)
