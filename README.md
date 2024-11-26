@@ -32,10 +32,12 @@ Still learning different languages, and my goal is to try and master it as soon 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ByronJayBaylon"><img src="https://github-readme-stats.vercel.app/api?username=ByronJayBaylon&show_icons=true&title_color=f8f9fa&text_color=e0e0e0&icon_color=ff6b6b&bg_color=90,000000,B41C1C&border_color=FF0000" alt="HimeeHimeee's GitHub stats" /></a>
+<a href="http://www.github.com/ByronJayBaylon"><img src="https://github-readme-stats.vercel.app/api?username=ByronJayBaylon&show_icons=true&title_color=f8f9fa&text_color=e0e0e0&icon_color=ff6b6b&bg_color=90,000000,B41C1C&border_color=FF0000&border_radius=10" alt="ByronJay's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ByronJayBaylon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ByronJayBaylon&border_radius=10&background=90%2C000000%2CB41C1C&stroke=EBEBEB&border=FF0000&ring=810000&fire=EB0000&currStreakNum=EBAD30&sideNums=EBAD4F&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
 
-<a href="https://github.com/HimeeHimeee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimeeHimeee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronJayBaylon&bg_color=90,000000,b41c1c&border_color=FF0000&title_color=f8f9fa&text_color=e0e0e0&&border_radius=10&layout=compact)](https://github.com/ByronJayBaylon/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronJayBaylon&bg_color=90,000000,b41c1c&border_color=FF0000&title_color=f8f9fa&text_color=e0e0e0&)](https://github.com/ByronJayBaylon/)
+## My Recent Project's Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByronJayBaylon&repo=ClickMe&bg_color=90,000000,b41c1c&title_color=416DE1&text_color=e0e0e0&border_radius=10&border_color=ff0000)](https://github.com/ByronJayBaylon/ClickMe)
