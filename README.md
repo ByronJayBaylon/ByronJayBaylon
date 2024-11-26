@@ -34,11 +34,11 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ByronJayBaylon"><img src="https://github-readme-stats.vercel.app/api?username=ByronJayBaylon&show_icons=true&title_color=f8f9fa&text_color=e0e0e0&icon_color=ff6b6b&bg_color=90,000000,B41C1C&border_color=FF0000&border_radius=10" alt="ByronJay's GitHub stats" /></a>
+<a href="http://www.github.com/ByronJayBaylon"><img src="https://github-readme-stats.vercel.app/api?username=ByronJayBaylon&show_icons=true&title_color=EBAD30&text_color=e0e0e0&icon_color=ff6b6b&bg_color=90,000000,B41C1C&border_color=FF0000&border_radius=10" alt="ByronJay's GitHub stats" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ByronJayBaylon&border_radius=10&background=90%2C000000%2CB41C1C&stroke=EBEBEB&border=FF0000&ring=810000&fire=EB0000&currStreakNum=EBAD30&sideNums=EBAD4F&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://github.com/ByronJayBaylon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronJayBaylon&bg_color=90,000000,b41c1c&border_color=FF0000&title_color=f8f9fa&text_color=e0e0e0&&border_radius=10&layout=compact)](https://github.com/ByronJayBaylon/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronJayBaylon&bg_color=90,000000,b41c1c&border_color=FF0000&title_color=EBAD30&text_color=e0e0e0&&border_radius=10&layout=compact)](https://github.com/ByronJayBaylon/)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="48" height="48" /> My Recent Project's Repositories
