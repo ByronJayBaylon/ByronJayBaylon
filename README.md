@@ -1,4 +1,4 @@
-<img src="https://github.com/ByronJayBaylon/ByronJayBaylon/blob/630363a0f75183b0c0d10b5fbd4397e4c0bfc997/Welcome%20To%20Your%20Madness.gif" alt="Welcome To Your Madness" />
+<a> <img src="https://github.com/ByronJayBaylon/ByronJayBaylon/blob/630363a0f75183b0c0d10b5fbd4397e4c0bfc997/Welcome%20To%20Your%20Madness.gif" alt="Welcome To Your Madness"/> </a>
 
 <div align="center">
   
@@ -14,7 +14,7 @@
 
 * 🧠  I'm learning JavaScript, Python, PHP, MySQL
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="48" height="48" /> Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="48" height="48"/> Skills
 
 
 <p align="left">
