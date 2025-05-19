@@ -10,7 +10,7 @@
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="48" height="48" /> About Me
-#### Still learning different languages, and my goal is to try and master it as soon as possible.
+#### A master at work. In progress. Expanding knowledge in various languages. The goal? Earn mastery one language at a time.
 
 * 🧠  I'm learning JavaScript, Python, PHP, MySQL
 
